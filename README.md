@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @somtech123
 - 👀 I’m interested in ... full stacked web development
-- 🌱 I’m currently learning ... php and javascript
+- 🌱 I’m currently learning ... blockchain software and javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 0scarchisom11@gmail.com
 
