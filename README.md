@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @somtech123
-- 👀 I’m interested in ... full stacked web development
+- 👀 I’m interested in ... full stacked php and laravel web development
 - 🌱 I’m currently learning ... blockchain software and javascript
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any php and laravel project
 - 📫 How to reach me ... 0scarchisom11@gmail.com
 
 <!---
