@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @somtech123
-- 👀 I’m interested in ...  app and web development
-- 🌱 I’m currently learning ... java tho i have worked with php and laravel 
+- 👀 I’m interested in ...  app development, i create for both android and ios using flutter and java
+- 🌱 I’m currently learning ... spring boot and java 
 - 💞️ I’m looking to collaborate on any project and open source to improve my skills in java
 - 📫 How to reach me ... 0scarchisom11@gmail.com
 
