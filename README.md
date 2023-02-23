@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @somtech123
-- 👀 I’m interested in ...  app development, i create for both android and ios using flutter and java
-- 🌱 I’m currently learning ... spring boot and java 
-- 💞️ I’m looking to collaborate on any project and open source to improve my skills in java
+- 👋 Hi, I’m Oscar onyenacho, I'm a flutter and java software developer, 
+- 👀 I’m passionate about building beautiful and performant, cross platform mobile application 
+- 🌱 I’m currently learning ... spring boot and microservices
+- ✔ I'm skilled in cross platform app developement, git and version control, agile methdology and app life cycle      performance, testing and deployment, UI /UX design, Api intergration, data structure and Dart programming
+- 💞️ I’m looking to collaborate on any project and open source to improve my skills in flutter or java, and also       looking  for intership position or job in my skill
 - 📫 How to reach me ... 0scarchisom11@gmail.com
 
 
