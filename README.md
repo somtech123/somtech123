@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... spring boot and microservices
 - ✔ I'm skilled in cross platform app developement, git and version control, agile methdology and app life cycle      performance, testing and deployment, UI /UX design, Api intergration, data structure and Dart programming
 - 💞️ I’m looking to collaborate on any project and open source to improve my skills in flutter or java, and also       looking  for intership position or job in my skill
-- 📫 How to reach me ... 0scarchisom11@gmail.com
+- 📫 How to reach me ... 0scarchisom11@gmail.com, www.linkedin.com/in/oscar-onyenacho-a94350238,
 
 
 <!---
