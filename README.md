@@ -29,7 +29,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1FoFeOtnBxqyKLPm7qpGz8jzZC0jddplH/view?usp=share_link](https://drive.google.com/file/d/1FoFeOtnBxqyKLPm7qpGz8jzZC0jddplH/view?usp=share_link)
 
-- ⚡ Fun fact **I think i'm funny,**
+- ⚡ Fun fact **I like learning new technologies and building new projects ,**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
