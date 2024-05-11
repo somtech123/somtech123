@@ -11,9 +11,9 @@
 <p align="left"> <a href="https://twitter.com/somtech2001" target="blank"><img src="https://img.shields.io/twitter/follow/somtech2001?logo=twitter&style=for-the-badge" alt="somtech2001" /></a> </p>
 <img align ="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding" width ="400" />
 
-- 🔭 I’m currently working on **E-Library**
+- 🔭 I’m currently working on **Open Art and GoRider**
 
-- 🌱 I’m currently learning **Springboot and Microservices**
+- 🌱 I’m currently learning **Node js**
 
 - 👯 I’m looking to collaborate on **open source to improve my skills in flutter or java, and also looking for intership position or job in my skill**
 
